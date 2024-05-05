@@ -1,0 +1,4 @@
+coverage.out
+/tmp/*
+/examples/tmp/*
+/bin/serve/docker/prometheus/data
