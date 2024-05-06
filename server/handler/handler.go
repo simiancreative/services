@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/simiancreative/services/req"
+	"github.com/simiancreative/services/server/req"
 	"github.com/simiancreative/services/service"
 )
 
